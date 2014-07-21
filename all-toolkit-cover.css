@@ -1106,8 +1106,8 @@ body div.position-1\:4 {
     float: none;
 }
 .galleria-thumbnails .galleria-image {
-    height: 40px !important;
-    width: 60px !important;
+    height: 1.3em !important;
+    width: 1.3em !important;
 }
 .galleria-thumbnails-container {
     background-color: rgba(204, 204, 204, 0.3);
