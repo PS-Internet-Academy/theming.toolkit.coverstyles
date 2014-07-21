@@ -1,0 +1,28 @@
+Developments Blue |developments-blue
+Developments DetailText|developments-detail
+Developments Green |developments-green
+Developments Orange |developments-orange
+Developments-Image|developments-image
+
+Richtextbox-blue|reec-richtextbox-blu
+Richtextbox-green|reec-richtextbox-green
+Richtextbox-red|reec-richtextbox-red
+Richtextbox-yellow|reec-richtextbox-yellow
+
+Title-Richtextbox-blue|title-richtextbox-blue
+Title-Richtextbox-green|title-richtextbox-green
+Title-Richtextbox-red|title-richtextbox-red
+Title-Richtextbox-yellow|title-richtextbox-yellow 
+
+Mlscollection-blue|reec-mlscollection-blue
+Mlscollection-green|reec-mlscollection-green
+Mlscollection-red|reec-mlscollection-red
+Mlscollection-yellow|reec-mlscollection-yellow 
+
+LatestListings|mlsec_latest-listings
+
+h4p-MLS Listing Collection|h4p-listingcollection
+
+h4p-Searchform|h4p-searchform
+
+h4p-RichText Arrow Box|h4p-arrowbox

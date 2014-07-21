@@ -1,0 +1,50 @@
+mls-ecuador: Latest-listings style
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "mls-ecuador: LatestListings"
+  4.save
+
+mls-ecuador: Collection Box style 
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "Mlscollection-blue, Mlscollection-red, Mlscollection-green or Mlscollection-yellow"
+  4.save
+
+mls-ecuador: Richtext title style 
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "Title-Richtextbox-blue, Title-Richtextbox-red, Title-Richtextbox-green or Title-Richtextbox-yellow"
+  4.save
+
+mls-ecuador: Richtext Box style 
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "Richtext-blue, Richtext-red, Richtext-green or Richtext-yellow"
+  4.save
+
+mls-ecuador: Development Richtext Box style 
+  1.Go to "Layout"
+  2.Create 3 richtext-box
+  2.click on the configuration symbol
+  3.choose "Developments-image":for first rich text
+  4.choose "Developments-blue, Developments-orange, Developments-green":for second rich text
+  5.choose "Developments-green":for first rich text
+  6.save
+
+Homes4panama: Richtext Box Arrow 
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "h4p-RichText Arrow Box"
+  4.save
+
+Homes4panama: Searchform 
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "h4p-Searchform"
+  4.save
+
+Homes4panama: Listing Collection 
+  1.Go to "Layout"
+  2.click on the configuration symbol
+  3.choose "h4p0MLS Listing Collection"
+  4.save
